@@ -1,0 +1,8 @@
+.text-color {
+  background: linear-gradient(90deg, #8456ec 24.2%, #e87bf8 120.46%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.btn-bg {
+  background: linear-gradient(90deg, #8456ec 3.25%, #e87bf8 100%);
+}
